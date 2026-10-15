@@ -1,0 +1,10 @@
+{
+  "code": "\nimport java.util.*;\n\nclass Solution {\n    public List<String> topKFrequent(String[] words, int k) {\n        Map<String, Integer> freq = new HashMap<>();\n\n        for (String word : words) {\n            freq.put(word, freq.getOrDefault(word, 0) + 1);\n        }\n\n        List<String> list = new ArrayList<>(freq.keySet());\n\n        list.sort((a, b) -> {\n            if (freq.get(a).equals(freq.get(b))) {\n                return a.compareTo(b);\n            }\n            return freq.get(b) - freq.get(a);\n        });\n\n        return list.subList(0, k);\n    }\n}\n",
+  "difficulty": "Medium",
+  "language": "java",
+  "platform": "LeetCode",
+  "problemName": "Top K Frequent Words",
+  "problemNumber": "692",
+  "submissionDate": "2026-10-15T15:19:55.662Z",
+  "submissionUrl": "https://leetcode.com/problems/top-k-frequent-words/submissions/2173128954/"
+}
