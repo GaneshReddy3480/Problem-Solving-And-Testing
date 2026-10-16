@@ -1,0 +1,9 @@
+{
+  "code": "\nimport java.util.Scanner;\n\npublic class Main {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int year = sc.nextInt();\n\n        if (year % 400 == 0 || (year % 4 == 0 && year % 100 != 0)) {\n            System.out.println(\"Schedule Event\");\n        } else {\n            System.out.println(\"No Event This Year\");\n        }\n\n        sc.close();\n    }\n}\n",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Decision Making - Event Scheduling for Leap Year Celebrations",
+  "submissionDate": "2026-10-16T05:40:07.893Z",
+  "submissionUrl": "https://www.hackerrank.com/contests/vel-tech-a-3rd-year/challenges/desicion-making-event-scheduling-for-leap-year-celebrations/problem?isFullScreen=false"
+}
