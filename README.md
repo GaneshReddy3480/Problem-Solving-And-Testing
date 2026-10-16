@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0705-design-hashset](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0705-design-hashset/) | Easy |
 | [0890-find-and-replace-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0890-find-and-replace-pattern/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0796-rotate-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0796-rotate-string/) | Easy |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## Quickselect
@@ -149,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
