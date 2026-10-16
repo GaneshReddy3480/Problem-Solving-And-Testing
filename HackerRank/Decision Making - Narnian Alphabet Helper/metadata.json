@@ -1,0 +1,9 @@
+{
+  "code": "\nimport java.util.Scanner;\n\npublic class Main {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        char ch = sc.next().charAt(0);\n\n        if ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) {\n            if (\"aeiouAEIOU\".indexOf(ch) != -1) {\n                System.out.println(\"Vowel\");\n            } else {\n                System.out.println(\"Consonant\");\n            }\n        } else {\n            System.out.println(\"Not an alphabet\");\n        }\n\n        sc.close();\n    }\n}\n",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Decision Making - Narnian Alphabet Helper",
+  "submissionDate": "2026-10-16T05:46:31.523Z",
+  "submissionUrl": "https://www.hackerrank.com/contests/vel-tech-a-3rd-year/challenges/desicion-making-narnian-alphabet-helper/problem?isFullScreen=false"
+}
