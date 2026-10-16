@@ -1,0 +1,9 @@
+{
+  "code": "\nimport java.util.Scanner;\n\npublic class Main {\n    public static void main(String[] args) {\n        Scanner sc = new Scanner(System.in);\n\n        int dollar1 = sc.nextInt();\n        int cent1 = sc.nextInt();\n        int dollar2 = sc.nextInt();\n        int cent2 = sc.nextInt();\n\n        int totalCents = cent1 + cent2;\n        int totalDollars = dollar1 + dollar2;\n\n        totalDollars += totalCents / 100;\n        totalCents %= 100;\n\n        System.out.println(totalDollars);\n        System.out.println(totalCents);\n\n        sc.close();\n    }\n}\n",
+  "difficulty": "",
+  "language": "unknown",
+  "platform": "HackerRank",
+  "problemName": "Operators - Currency Conversion Helper for Kamal",
+  "submissionDate": "2026-10-16T05:28:55.328Z",
+  "submissionUrl": "https://www.hackerrank.com/contests/vel-tech-a-3rd-year/challenges/operators-currency-conversion-helper-for-kamal/problem?isFullScreen=false"
+}
