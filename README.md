@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0283-move-zeroes/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
@@ -86,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0049-group-anagrams/) | Medium |
+| [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -124,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1603-design-parking-system](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1603-design-parking-system/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -216,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1600-throne-inheritance](https://github.com/GaneshReddy3480/Problem-Solving-Using-Java/tree/main/1600-throne-inheritance/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/GaneshReddy3480/Problem-Solving-And-Testing/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
